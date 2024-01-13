@@ -1,0 +1,98 @@
+### Step 2A
+/Users/kambp
+
+### Step 2B
+cd Desktop/
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/Users/kambp/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /
+
+### Step 2H
+pwd
+
+### Step 2I
+Applications	Users		cores		home		sbin		var
+Library		Volumes		dev		opt		tmp
+System		bin		etc		private		usr
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop/unit1-git-practice
+
+
+### Step 3A
+Mkdir veggies
+Mkdir meats
+Mkdir desserts
+
+### Step 3B
+Mv desserts sweets
+
+### Step 3C
+Mkdir proteins
+
+### Step 3D
+Mv meats proteins
+
+### Step 3E
+Cd veggies
+Touch carrot.txt && touch pea.txt
+
+### Step 3F
+Cd ..
+Cd sweets
+Touch cookie.txt
+
+### Step 3G
+Mv cookie.txt donut.txt
+
+### Step 3H
+Cd ..
+Touch thing.txt
+
+### Step 3I
+Cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins/meats
+
+### Step 3L
+Rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+Mkdir drinks
+Rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***

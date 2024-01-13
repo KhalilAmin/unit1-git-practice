@@ -96,7 +96,10 @@ Git branch -M main
 Git push -u origin main
 
 ### Step 6
-
+Touch menu.txt
+Git add .
+Git commit -m 'add menu.txt update my-steps.txt'
+Git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
